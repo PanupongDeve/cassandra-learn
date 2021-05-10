@@ -3,20 +3,21 @@
  - AWS -> DynamoDB
  - Google -> Bigtable
 
+
 ## Feature
-    - Fault tolerance <br />
-        - automatically replicates data to multiple nodes<br />
-    - High Performance<br />
-          - very hight throughphut and low latency <br />
-          - can add large number of nodes when increase workload<br />
-     - Distrubuted Configuration and High Resiliency<br />
-          - multiple nodes<br />
-          - automatic replica all nodes<br />
-    - flexibility<br />
-          - can change schema at runtime<br />
-           can set read/write by replication<br />
-    - Management<br />
-          - have many framwork , DataStax<br />
-    - High Scalable<br />
-    - Good for SQL developer<br />
-          - CQL (Cassandra Query Lanauage)<br />
+* Fault tolerance 
+    * automatically replicates data to multiple nodes
+* High Performance
+    * very hight throughphut and low latency
+    * can add large number of nodes when increase workload 
+* Distrubuted Configuration and High Resiliency
+    * multiple nodes
+    * automatic replica all nodes 
+* Flexibility
+    * can change schema at runtime 
+    * can set read/write by replication
+* Management
+    *  have many framwork , DataStax
+* High Scalable 
+* Good for SQL developer
+    * CQL (Cassandra Query Lanauage) 
